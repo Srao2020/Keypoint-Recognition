@@ -3,7 +3,7 @@
 import json
 import os
 
-# Define paths (Ensure these paths are absolute and correctly formatted for your system)
+# Define paths
 annotations_json_path = '/Users/25rao/Desktop/mlai/Project_1/data/Training/annotations_1/project-2-at-2024-09-22-12-38-fa25f0ef.json' # update for new data
 images_folder_path = '/Users/25rao/Desktop/mlai/Project_1/dataTraining//images'
 output_json_folder_path = '/Users/25rao/Desktop/mlai/Project_1/data/Training/annotations'

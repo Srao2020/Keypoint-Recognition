@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="96b37bc9-1b97-4c4c-97b3-388837def1b1" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_visual.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/split_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/split_json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +84,7 @@
       <workItem from="1726680139405" duration="20000" />
       <workItem from="1726796681225" duration="6080000" />
       <workItem from="1726853182403" duration="9396000" />
-      <workItem from="1727008824180" duration="18745000" />
+      <workItem from="1727008824180" duration="24421000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -92,11 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1727208035032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1727236930929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727236930929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
