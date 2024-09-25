@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b37bc9-1b97-4c4c-97b3-388837def1b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project1_MLAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split_json.py" afterDir="false" />
+    <list default="true" id="96b37bc9-1b97-4c4c-97b3-388837def1b1" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Srao2020"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Srao2020/Project1_MLAI",
+    "accountId": "0a36a213-4220-4a26-9792-2fbe27e53bd7"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -81,12 +82,25 @@
       <workItem from="1726680139405" duration="20000" />
       <workItem from="1726796681225" duration="6080000" />
       <workItem from="1726853182403" duration="9396000" />
-      <workItem from="1727008824180" duration="14851000" />
+      <workItem from="1727008824180" duration="18745000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1727208035032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727208035032</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project1_MLAI$model_test.coverage" NAME="model_test Coverage Results" MODIFIED="1727108416095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
