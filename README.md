@@ -56,11 +56,11 @@ To implement my model I used model_prediction.py. This script processes the imag
     - Models *This is where the model is saved*
 
 - Update the file paths in each of the files to match yours
-- Run `split_json.py` if your files are not separated by image yet
-- Run `json_load.py`
-- Run `model_train.py`
-- Run `model_test.py`
-- Run `model_prediction.py`
+    - Run `split_json.py` if your files are not separated by image yet
+    - Run `json_load.py`
+    - Run `model_train.py`
+    - Run `model_test.py`
+    - Run `model_prediction.py`
 
 # Project Collaboration
 - Label Studio - for image annotations
