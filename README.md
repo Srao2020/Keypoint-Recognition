@@ -27,7 +27,7 @@ After all of the preprocessing steps I ran model_train.py. This code builds a co
 - **Conv2D layers**: To extract features from images.
 - **MaxPooling layers**: To downsample feature maps.
 - **Dense layers**: To capture complex feature relationships.
-- **Output**: 4 keypoint coordinates.
+- **Output**: 2 keypoint coordinates.
 
 # Model Testing
 
