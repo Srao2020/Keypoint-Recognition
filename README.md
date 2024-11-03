@@ -69,4 +69,3 @@ To implement my model I used model_prediction.py. This script processes the imag
 - Label Studio - for image annotations
 - ImageJ - pixel ratios and resizing
 - PycharmPro - the IDE I used
-- ChatGPT - used for errors and debugging
